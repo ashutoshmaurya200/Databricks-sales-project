@@ -1,9 +1,9 @@
 # Databricks-sales-project
 
-##Topics
+#Topics
 
-this project demonstrates:
+this project demonstrates:<br>
 -Databricks<br>
--PySpark
--Delta Lake
--Git Integration
+-PySpark<br>
+-Delta Lake<br>
+-Git Integration<br>
