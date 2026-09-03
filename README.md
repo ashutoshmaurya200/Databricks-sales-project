@@ -3,7 +3,7 @@
 ##Topics
 
 this project demonstrates:
--Databricks
+-Databricks<br>
 -PySpark
 -Delta Lake
 -Git Integration
